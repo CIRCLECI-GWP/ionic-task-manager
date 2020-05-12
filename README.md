@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ionicframework.com/">
-    <img alt="Gatsby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png" width="60" />
+    <img alt="Gatsby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ionic-logo-landscape.svg/1200px-Ionic-logo-landscape.svg.png" width="120" />
   </a>
 </p>
 <h1 align="center">
