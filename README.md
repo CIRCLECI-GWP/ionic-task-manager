@@ -1,6 +1,6 @@
 # Continuous integration for Ionic applications
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/gatsby-heroku-deploy.svg?style=svg)](https://app.circleci.com/pipelines/github/CIRCLECI-GWP/graphql-test-server?branch=master)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/ionic-task-manager.svg?style=svg)](https://app.circleci.com/pipelines/github/CIRCLECI-GWP/ionic-task-manager?branch=master)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
